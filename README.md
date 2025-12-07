@@ -1,16 +1,33 @@
-## Hi there 👋
+# Muhammed Özdemir
 
-<!--
-**muhammedozd/muhammedozd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student focusing on mobile application development.  
+I develop cross-platform mobile apps using **Flutter & Dart**, and I actively use **Python** for general-purpose programming and problem solving.
 
-Here are some ideas to get you started:
+## Technical Skills
+- **Mobile Development:** Flutter, Dart  
+- **General Programming:** Python  
+- **Tools:** Git, VS Code, Figma  
+- **Currently Learning:** Firebase, API integration, state management (Provider/Riverpod)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Stok Takip ve Depo Doluluk Hesaplama Uygulaması (Flutter)
+A mobile application designed for managing product stock levels and calculating 3D storage occupancy.
+
+**Key features:**
+- Product entry and update  
+- Truck selection for loading operations  
+- Automatic **3D volume (m³) calculation** for each product  
+- Total capacity vs. used capacity calculation  
+- Real-time occupancy percentage output  
+- Clean and simple UI design  
+- Local data storage  
+
+
+## Goals
+- Improve mobile app architecture and Flutter best practices  
+- Integrate Firebase Authentication & Firestore  
+- Build a strong portfolio for internship applications  
+
+## Contact
+Email: muhammedozdemir0@outlook.com
